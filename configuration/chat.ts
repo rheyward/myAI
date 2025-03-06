@@ -1,4 +1,4 @@
-import { RAVEN_HEYWARD, RESUPERFECT_AI } from "./identity";
+import { OWNER_NAME, AI_NAME } from "./identity";
 
 export const INITIAL_MESSAGE: string = `Hello, I'm ${RESUPERFECT_AI}, ${RAVEN_HEYWARD}'s AI assistant.`;
 export const DEFAULT_RESPONSE_MESSAGE: string = `Sorry, I'm having trouble generating a response. Please try again later.`;
